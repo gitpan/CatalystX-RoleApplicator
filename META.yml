@@ -10,4 +10,4 @@ requires:
   Class::MOP: '0.80'
   Moose: '0.73'
   MooseX::RelatedClassRoles: '0.003'
-version: '0.004'
+version: '0.005'

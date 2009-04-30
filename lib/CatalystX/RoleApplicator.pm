@@ -1,5 +1,5 @@
 package CatalystX::RoleApplicator;
-our $VERSION = '0.004';
+our $VERSION = '0.005';
 
 # ABSTRACT: apply roles to your Catalyst application-related classes
 
@@ -41,7 +41,7 @@ CatalystX::RoleApplicator - apply roles to your Catalyst application-related cla
 
 =head1 VERSION
 
-version 0.004
+version 0.005
 
 =head1 SYNOPSIS
 
